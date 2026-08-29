@@ -53,5 +53,24 @@
       "operatorId": "10",
       "phoneNumber": "+62 851 3322 0518"
     }
+  },
+  {
+    "id": "RO0047172398",
+    "userId": 5324765409,
+    "userName": "LIDAHBUAH",
+    "type": "otp",
+    "itemName": "WhatsApp",
+    "amount": 2500,
+    "method": "RumahOTP",
+    "paymentId": "RO0047172398",
+    "status": "success",
+    "timestamp": "2026-08-29T05:04:17.018Z",
+    "details": {
+      "numberId": "2381",
+      "providerId": "3427",
+      "serviceId": "13",
+      "operatorId": "5",
+      "phoneNumber": "+62 858 0101 0788"
+    }
   }
 ]
