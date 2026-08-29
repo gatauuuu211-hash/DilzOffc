@@ -110,5 +110,24 @@
       "operatorId": "2",
       "phoneNumber": "+62 857 3549 0935"
     }
+  },
+  {
+    "id": "RO0047238536",
+    "userId": 5324765409,
+    "userName": "LIDAHBUAH",
+    "type": "otp",
+    "itemName": "WhatsApp",
+    "amount": 2500,
+    "method": "RumahOTP",
+    "paymentId": "RO0047238536",
+    "status": "success",
+    "timestamp": "2026-08-29T07:53:14.849Z",
+    "details": {
+      "numberId": "2381",
+      "providerId": "3029",
+      "serviceId": "13",
+      "operatorId": "4",
+      "phoneNumber": "+62 831 7614 4368"
+    }
   }
 ]
