@@ -1,0 +1,19 @@
+[
+  {
+    "id": "DEPO-1787979431435",
+    "userId": 5324765409,
+    "userName": "LIDAHBUAH",
+    "type": "deposit",
+    "itemName": "Deposit Saldo OTP",
+    "amount": 7000,
+    "method": "RumahOTP",
+    "paymentId": "RO20260829115638613016",
+    "status": "success",
+    "timestamp": "2026-08-29T04:57:11.435Z",
+    "details": {
+      "fee": 200,
+      "totalRequest": 7200,
+      "saldoBaru": 10750
+    }
+  }
+]
