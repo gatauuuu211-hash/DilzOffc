@@ -15,5 +15,24 @@
       "totalRequest": 7200,
       "saldoBaru": 10750
     }
+  },
+  {
+    "id": "RO0047170674",
+    "userId": 5324765409,
+    "userName": "LIDAHBUAH",
+    "type": "otp",
+    "itemName": "Telegram",
+    "amount": 5600,
+    "method": "RumahOTP",
+    "paymentId": "RO0047170674",
+    "status": "success",
+    "timestamp": "2026-08-29T04:57:48.108Z",
+    "details": {
+      "numberId": "949",
+      "providerId": "3193",
+      "serviceId": "5",
+      "operatorId": "2",
+      "phoneNumber": "+94 75 385 0792"
+    }
   }
 ]
