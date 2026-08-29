@@ -148,5 +148,24 @@
       "operatorId": "7",
       "phoneNumber": "+62 851 3844 9292"
     }
+  },
+  {
+    "id": "RO0047241935",
+    "userId": 5324765409,
+    "userName": "LIDAHBUAH",
+    "type": "otp",
+    "itemName": "WhatsApp",
+    "amount": 2650,
+    "method": "RumahOTP",
+    "paymentId": "RO0047241935",
+    "status": "success",
+    "timestamp": "2026-08-29T08:00:20.006Z",
+    "details": {
+      "numberId": "2381",
+      "providerId": "4677",
+      "serviceId": "13",
+      "operatorId": "2",
+      "phoneNumber": "+62 857 3549 1411"
+    }
   }
 ]
