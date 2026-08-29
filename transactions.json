@@ -72,5 +72,24 @@
       "operatorId": "5",
       "phoneNumber": "+62 858 0101 0788"
     }
+  },
+  {
+    "id": "RO0047173127",
+    "userId": 5324765409,
+    "userName": "LIDAHBUAH",
+    "type": "otp",
+    "itemName": "WhatsApp",
+    "amount": 2500,
+    "method": "RumahOTP",
+    "paymentId": "RO0047173127",
+    "status": "success",
+    "timestamp": "2026-08-29T05:08:58.113Z",
+    "details": {
+      "numberId": "2381",
+      "providerId": "3029",
+      "serviceId": "13",
+      "operatorId": "5",
+      "phoneNumber": "+62 831 6176 8093"
+    }
   }
 ]
