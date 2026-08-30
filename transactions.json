@@ -224,5 +224,24 @@
       "operatorId": "10",
       "phoneNumber": "+62 851 4337 4181"
     }
+  },
+  {
+    "id": "RO0047524222",
+    "userId": 5324765409,
+    "userName": "LIDAHBUAH",
+    "type": "otp",
+    "itemName": "WhatsApp",
+    "amount": 2500,
+    "method": "RumahOTP",
+    "paymentId": "RO0047524222",
+    "status": "success",
+    "timestamp": "2026-08-30T03:48:53.869Z",
+    "details": {
+      "numberId": "2381",
+      "providerId": "3347",
+      "serviceId": "13",
+      "operatorId": "10",
+      "phoneNumber": "+62 838 4477 8601"
+    }
   }
 ]
