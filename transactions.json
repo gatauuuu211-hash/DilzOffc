@@ -167,5 +167,24 @@
       "operatorId": "2",
       "phoneNumber": "+62 857 3549 1411"
     }
+  },
+  {
+    "id": "RO0047518237",
+    "userId": 8782524194,
+    "userName": "chyioPy",
+    "type": "otp",
+    "itemName": "WhatsApp",
+    "amount": 2500,
+    "method": "RumahOTP",
+    "paymentId": "RO0047518237",
+    "status": "success",
+    "timestamp": "2026-08-30T03:04:50.234Z",
+    "details": {
+      "numberId": "2381",
+      "providerId": "3347",
+      "serviceId": "13",
+      "operatorId": "1",
+      "phoneNumber": "+62 838 9413 9194"
+    }
   }
 ]
