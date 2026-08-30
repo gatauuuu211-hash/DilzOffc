@@ -319,5 +319,24 @@
       "operatorId": "3",
       "phoneNumber": "+62 831 1959 8103"
     }
+  },
+  {
+    "id": "RO0047589465",
+    "userId": 5324765409,
+    "userName": "LIDAHBUAH",
+    "type": "otp",
+    "itemName": "WhatsApp",
+    "amount": 2650,
+    "method": "RumahOTP",
+    "paymentId": "RO0047589465",
+    "status": "success",
+    "timestamp": "2026-08-30T08:17:58.907Z",
+    "details": {
+      "numberId": "2381",
+      "providerId": "4676",
+      "serviceId": "13",
+      "operatorId": "2",
+      "phoneNumber": "+62 858 0086 6883"
+    }
   }
 ]
