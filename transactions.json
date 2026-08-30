@@ -357,5 +357,24 @@
       "operatorId": "3",
       "phoneNumber": "+62 851 4214 5127"
     }
+  },
+  {
+    "id": "RO0047646515",
+    "userId": 1379729539,
+    "userName": "ARIFOFFICIAL11",
+    "type": "otp",
+    "itemName": "Telegram",
+    "amount": 1750,
+    "method": "RumahOTP",
+    "paymentId": "RO0047646515",
+    "status": "success",
+    "timestamp": "2026-08-30T11:47:14.903Z",
+    "details": {
+      "numberId": "837",
+      "providerId": "4175",
+      "serviceId": "5",
+      "operatorId": "1",
+      "phoneNumber": "+62 877 3882 9253"
+    }
   }
 ]
