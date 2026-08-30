@@ -338,5 +338,24 @@
       "operatorId": "2",
       "phoneNumber": "+62 858 0086 6883"
     }
+  },
+  {
+    "id": "RO0047600242",
+    "userId": 5324765409,
+    "userName": "LIDAHBUAH",
+    "type": "otp",
+    "itemName": "WhatsApp",
+    "amount": 2650,
+    "method": "RumahOTP",
+    "paymentId": "RO0047600242",
+    "status": "success",
+    "timestamp": "2026-08-30T08:57:40.678Z",
+    "details": {
+      "numberId": "2381",
+      "providerId": "4676",
+      "serviceId": "13",
+      "operatorId": "3",
+      "phoneNumber": "+62 851 4214 5127"
+    }
   }
 ]
