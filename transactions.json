@@ -395,5 +395,24 @@
       "operatorId": "1",
       "phoneNumber": "+62 851 7946 3450"
     }
+  },
+  {
+    "id": "RO0047734976",
+    "userId": 5324765409,
+    "userName": "LIDAHBUAH",
+    "type": "otp",
+    "itemName": "WhatsApp",
+    "amount": 2600,
+    "method": "RumahOTP",
+    "paymentId": "RO0047734976",
+    "status": "success",
+    "timestamp": "2026-08-30T15:36:49.269Z",
+    "details": {
+      "numberId": "2381",
+      "providerId": "4649",
+      "serviceId": "13",
+      "operatorId": "2",
+      "phoneNumber": "+62 858 3346 2704"
+    }
   }
 ]
