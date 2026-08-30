@@ -262,5 +262,24 @@
       "operatorId": "3",
       "phoneNumber": "+62 851 4330 4628"
     }
+  },
+  {
+    "id": "RO0047526118",
+    "userId": 5324765409,
+    "userName": "LIDAHBUAH",
+    "type": "otp",
+    "itemName": "WhatsApp",
+    "amount": 2500,
+    "method": "RumahOTP",
+    "paymentId": "RO0047526118",
+    "status": "success",
+    "timestamp": "2026-08-30T04:02:07.400Z",
+    "details": {
+      "numberId": "2381",
+      "providerId": "3333",
+      "serviceId": "13",
+      "operatorId": "3",
+      "phoneNumber": "+62 838 7744 2746"
+    }
   }
 ]
