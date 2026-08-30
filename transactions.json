@@ -300,5 +300,24 @@
       "operatorId": "3",
       "phoneNumber": "+62 851 4330 8254"
     }
+  },
+  {
+    "id": "RO0047548033",
+    "userId": 5324765409,
+    "userName": "LIDAHBUAH",
+    "type": "otp",
+    "itemName": "WhatsApp",
+    "amount": 2500,
+    "method": "RumahOTP",
+    "paymentId": "RO0047548033",
+    "status": "success",
+    "timestamp": "2026-08-30T05:57:51.378Z",
+    "details": {
+      "numberId": "2381",
+      "providerId": "3333",
+      "serviceId": "13",
+      "operatorId": "3",
+      "phoneNumber": "+62 831 1959 8103"
+    }
   }
 ]
