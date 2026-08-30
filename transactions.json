@@ -186,5 +186,24 @@
       "operatorId": "1",
       "phoneNumber": "+62 838 9413 9194"
     }
+  },
+  {
+    "id": "RO0047523571",
+    "userId": 5324765409,
+    "userName": "LIDAHBUAH",
+    "type": "otp",
+    "itemName": "WhatsApp",
+    "amount": 2450,
+    "method": "RumahOTP",
+    "paymentId": "RO0047523571",
+    "status": "success",
+    "timestamp": "2026-08-30T03:43:46.100Z",
+    "details": {
+      "numberId": "2381",
+      "providerId": "3417",
+      "serviceId": "13",
+      "operatorId": "8",
+      "phoneNumber": "+62 857 1346 0545"
+    }
   }
 ]
