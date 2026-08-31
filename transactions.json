@@ -471,5 +471,24 @@
       "operatorId": "1",
       "phoneNumber": "+62 877 6887 6533"
     }
+  },
+  {
+    "id": "RO0048349285",
+    "userId": 5324765409,
+    "userName": "LIDAHBUAH",
+    "type": "otp",
+    "itemName": "WhatsApp",
+    "amount": 2550,
+    "method": "RumahOTP",
+    "paymentId": "RO0048349285",
+    "status": "success",
+    "timestamp": "2026-08-31T15:26:59.271Z",
+    "details": {
+      "numberId": "2381",
+      "providerId": "4617",
+      "serviceId": "13",
+      "operatorId": "2",
+      "phoneNumber": "+62 858 0412 4621"
+    }
   }
 ]
