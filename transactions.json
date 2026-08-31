@@ -414,5 +414,24 @@
       "operatorId": "2",
       "phoneNumber": "+62 858 3346 2704"
     }
+  },
+  {
+    "id": "RO0048131964",
+    "userId": 8309467311,
+    "userName": "Haaa3421",
+    "type": "otp",
+    "itemName": "Shopee",
+    "amount": 900,
+    "method": "RumahOTP",
+    "paymentId": "RO0048131964",
+    "status": "success",
+    "timestamp": "2026-08-31T11:14:55.215Z",
+    "details": {
+      "numberId": "5276",
+      "providerId": "3029",
+      "serviceId": "28",
+      "operatorId": "1",
+      "phoneNumber": "+62 831 8919 4151"
+    }
   }
 ]
