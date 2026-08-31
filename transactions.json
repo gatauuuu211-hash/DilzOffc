@@ -452,5 +452,24 @@
       "operatorId": "1",
       "phoneNumber": "+62 877 6887 6526"
     }
+  },
+  {
+    "id": "RO0048149355",
+    "userId": 8309467311,
+    "userName": "Haaa3421",
+    "type": "otp",
+    "itemName": "Shopee",
+    "amount": 1150,
+    "method": "RumahOTP",
+    "paymentId": "RO0048149355",
+    "status": "success",
+    "timestamp": "2026-08-31T11:35:11.930Z",
+    "details": {
+      "numberId": "5276",
+      "providerId": "3822",
+      "serviceId": "28",
+      "operatorId": "1",
+      "phoneNumber": "+62 877 6887 6533"
+    }
   }
 ]
