@@ -433,5 +433,24 @@
       "operatorId": "1",
       "phoneNumber": "+62 831 8919 4151"
     }
+  },
+  {
+    "id": "RO0048149103",
+    "userId": 8309467311,
+    "userName": "Haaa3421",
+    "type": "otp",
+    "itemName": "Shopee",
+    "amount": 1150,
+    "method": "RumahOTP",
+    "paymentId": "RO0048149103",
+    "status": "success",
+    "timestamp": "2026-08-31T11:35:00.088Z",
+    "details": {
+      "numberId": "5276",
+      "providerId": "3819",
+      "serviceId": "28",
+      "operatorId": "1",
+      "phoneNumber": "+62 877 6887 6526"
+    }
   }
 ]
