@@ -528,5 +528,24 @@
       "operatorId": "1",
       "phoneNumber": "+62 882 0176 40252"
     }
+  },
+  {
+    "id": "RO0048862946",
+    "userId": 5324765409,
+    "userName": "LIDAHBUAH",
+    "type": "otp",
+    "itemName": "WhatsApp",
+    "amount": 2650,
+    "method": "RumahOTP",
+    "paymentId": "RO0048862946",
+    "status": "success",
+    "timestamp": "2026-09-01T10:33:59.102Z",
+    "details": {
+      "numberId": "2381",
+      "providerId": "4676",
+      "serviceId": "13",
+      "operatorId": "2",
+      "phoneNumber": "+62 858 0063 5871"
+    }
   }
 ]
