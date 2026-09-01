@@ -490,5 +490,24 @@
       "operatorId": "2",
       "phoneNumber": "+62 858 0412 4621"
     }
+  },
+  {
+    "id": "RO0048632318",
+    "userId": 7744011281,
+    "userName": "DilzOffc",
+    "type": "otp",
+    "itemName": "Google, Gmail, Youtube",
+    "amount": 900,
+    "method": "RumahOTP",
+    "paymentId": "RO0048632318",
+    "status": "success",
+    "timestamp": "2026-09-01T06:32:25.450Z",
+    "details": {
+      "numberId": "1609",
+      "providerId": "3680",
+      "serviceId": "9",
+      "operatorId": "1",
+      "phoneNumber": "+62 882 0176 40150"
+    }
   }
 ]
