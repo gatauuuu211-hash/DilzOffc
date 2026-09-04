@@ -547,5 +547,22 @@
       "operatorId": "2",
       "phoneNumber": "+62 858 0063 5871"
     }
+  },
+  {
+    "id": "DEPO-1788526551117",
+    "userId": 1904996756,
+    "userName": "kyeryiim",
+    "type": "deposit",
+    "itemName": "Deposit Saldo OTP",
+    "amount": 5000,
+    "method": "RumahOTP",
+    "paymentId": "RO20260904195447635665",
+    "status": "success",
+    "timestamp": "2026-09-04T12:55:51.117Z",
+    "details": {
+      "fee": 200,
+      "totalRequest": 5200,
+      "saldoBaru": 5000
+    }
   }
 ]
