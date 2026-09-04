@@ -564,5 +564,24 @@
       "totalRequest": 5200,
       "saldoBaru": 5000
     }
+  },
+  {
+    "id": "RO0051076900",
+    "userId": 1904996756,
+    "userName": "kyeryiim",
+    "type": "otp",
+    "itemName": "Telegram",
+    "amount": 2500,
+    "method": "RumahOTP",
+    "paymentId": "RO0051076900",
+    "status": "success",
+    "timestamp": "2026-09-04T12:57:26.481Z",
+    "details": {
+      "numberId": "837",
+      "providerId": "4596",
+      "serviceId": "5",
+      "operatorId": "2",
+      "phoneNumber": "+62 857 3915 3474"
+    }
   }
 ]
