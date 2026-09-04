@@ -583,5 +583,24 @@
       "operatorId": "2",
       "phoneNumber": "+62 857 3915 3474"
     }
+  },
+  {
+    "id": "RO0051087076",
+    "userId": 1904996756,
+    "userName": "kyeryiim",
+    "type": "otp",
+    "itemName": "Telegram",
+    "amount": 3000,
+    "method": "RumahOTP",
+    "paymentId": "RO0051087076",
+    "status": "success",
+    "timestamp": "2026-09-04T13:14:22.908Z",
+    "details": {
+      "numberId": "837",
+      "providerId": "4877",
+      "serviceId": "5",
+      "operatorId": "1",
+      "phoneNumber": "+62 831 9262 3673"
+    }
   }
 ]
