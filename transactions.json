@@ -602,5 +602,24 @@
       "operatorId": "1",
       "phoneNumber": "+62 831 9262 3673"
     }
+  },
+  {
+    "id": "RO0059039687",
+    "userId": 1904996756,
+    "userName": "kyeryiim",
+    "type": "otp",
+    "itemName": "Telegram",
+    "amount": 1950,
+    "method": "RumahOTP",
+    "paymentId": "RO0059039687",
+    "status": "success",
+    "timestamp": "2026-09-19T03:13:35.732Z",
+    "details": {
+      "numberId": "837",
+      "providerId": "4272",
+      "serviceId": "5",
+      "operatorId": "4",
+      "phoneNumber": "+62 819 2771 5896"
+    }
   }
 ]
