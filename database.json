@@ -8,6 +8,6 @@
   "scripts": [],
   "maintenance": false,
   "panelPayment": "orkut",
-  "otpPayment": "rumahotp",
+  "otpPayment": "buatqris",
   "velianPayment": "austinpay"
 }
