@@ -6,7 +6,7 @@
   "wdRumahOtpOpen": true,
   "wdAustinPayOpen": true,
   "scripts": [],
-  "maintenance": true,
+  "maintenance": false,
   "panelPayment": "orkut",
   "otpPayment": "rumahotp",
   "velianPayment": "velian"
