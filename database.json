@@ -1,0 +1,13 @@
+{
+  "isPanelOpen": true,
+  "isResellerPanelOpen": true,
+  "isPythonPanelOpen": true,
+  "wdBuatQrisOpen": true,
+  "wdRumahOtpOpen": true,
+  "wdAustinPayOpen": true,
+  "scripts": [],
+  "maintenance": true,
+  "panelPayment": "orkut",
+  "otpPayment": "rumahotp",
+  "velianPayment": "velian"
+}
