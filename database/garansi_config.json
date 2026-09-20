@@ -1,0 +1,9 @@
+{
+  "maxClaim": 5,
+  "maxReplace": 5,
+  "garansiHari": 30,
+  "cooldownJam": 24,
+  "autoExpireClaimJam": 72,
+  "updatedAt": "2026-09-20T02:04:01.686Z",
+  "updatedBy": null
+}
