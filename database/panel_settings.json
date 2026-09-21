@@ -3,13 +3,19 @@
   "activePanelId": "legacy",
   "salePanelId": "legacy",
   "warrantyPanelId": "legacy",
-  "updatedAt": "2026-09-21T11:06:09.215Z",
+  "updatedAt": "2026-09-21T11:19:55.895Z",
   "updatedBy": "7744011281",
   "monitor": {
     "enabled": true,
     "intervalSeconds": 60,
     "errorThreshold": 2,
-    "userCooldownMinutes": 360
+    "userCooldownMinutes": 360,
+    "healthCheck": {
+      "enabled": true,
+      "mode": "auto",
+      "timeoutMs": 5000,
+      "httpPath": "/health"
+    }
   },
   "panels": [
     {
