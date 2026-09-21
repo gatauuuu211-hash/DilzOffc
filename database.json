@@ -8,6 +8,6 @@
   "scripts": [],
   "maintenance": false,
   "panelPayment": "austinpay",
-  "otpPayment": "austinpay",
+  "otpPayment": "rumahotp",
   "velianPayment": "austinpay"
 }
