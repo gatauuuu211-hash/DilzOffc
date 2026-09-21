@@ -2,7 +2,7 @@
   "version": 1,
   "activePanelId": "legacy",
   "warrantyPanelId": "legacy",
-  "updatedAt": "2026-09-21T04:17:36.311Z",
+  "updatedAt": "2026-09-21T04:20:28.151Z",
   "updatedBy": "7744011281",
   "monitor": {
     "enabled": true,
@@ -53,7 +53,7 @@
       "locationId": 1,
       "sell": {
         "nodejs": true,
-        "python": true
+        "python": false
       },
       "warrantyEligible": false,
       "eggs": {
