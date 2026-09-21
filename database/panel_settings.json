@@ -1,7 +1,7 @@
 {
   "version": 1,
   "activePanelId": "legacy",
-  "updatedAt": "2026-09-21T03:35:26.949Z",
+  "updatedAt": "2026-09-21T03:48:00.335Z",
   "updatedBy": "7744011281",
   "monitor": {
     "enabled": true,
@@ -15,6 +15,33 @@
       "name": "Default Panel",
       "domain": "https://felix-private.web.id",
       "apikey": "ptlc_IHGjZ6k8T7hs9PYIqHPfbgd3rUirrFdT9oxxAOUTTD9",
+      "locationId": 1,
+      "eggs": {
+        "nodejs": {
+          "nestId": 5,
+          "eggId": 15,
+          "dockerImage": "ghcr.io/parkervcp/yolks:nodejs_20",
+          "startup": "npm start",
+          "environment": {}
+        },
+        "python": {
+          "nestId": 5,
+          "eggId": 16,
+          "dockerImage": "ghcr.io/parkervcp/yolks:python_3.12",
+          "startup": "python main.py",
+          "environment": {
+            "PY_FILE": "main.py",
+            "REQUIREMENTS_FILE": "requirements.txt",
+            "AUTO_UPDATE": "0"
+          }
+        }
+      }
+    },
+    {
+      "id": "p_muapf7gk",
+      "name": "P",
+      "domain": "https://panel.example.com",
+      "apikey": "https://panel.example.com",
       "locationId": 1,
       "eggs": {
         "nodejs": {
