@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-21T12:08:26.654Z",
+  "updatedAt": "2026-09-21T12:55:39.792Z",
   "updatedBy": "system-monitor",
   "states": {
     "panel:legacy:server:1": {
@@ -1178,6 +1178,14 @@
       "notifiedDown": false,
       "lastHealthyAt": null,
       "lastErrorAt": "2026-09-21T12:08:07.759Z"
+    },
+    "MON-manual-legacy-1": {
+      "consecutiveErrors": 1,
+      "lastCode": "ECONNREFUSED",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T12:55:39.792Z"
     }
   }
 }
