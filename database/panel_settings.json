@@ -3,12 +3,12 @@
   "activePanelId": "legacy",
   "salePanelId": "legacy",
   "warrantyPanelId": "legacy",
-  "updatedAt": "2026-09-21T09:51:09.553Z",
+  "updatedAt": "2026-09-21T09:52:30.372Z",
   "updatedBy": "7744011281",
   "monitor": {
     "enabled": true,
     "intervalSeconds": 60,
-    "errorThreshold": 3,
+    "errorThreshold": 2,
     "userCooldownMinutes": 360
   },
   "panels": [
