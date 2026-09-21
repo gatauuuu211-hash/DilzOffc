@@ -3,7 +3,7 @@
   "activePanelId": "legacy",
   "salePanelId": "legacy",
   "warrantyPanelId": "legacy",
-  "updatedAt": "2026-09-21T11:03:22.210Z",
+  "updatedAt": "2026-09-21T11:06:09.215Z",
   "updatedBy": "7744011281",
   "monitor": {
     "enabled": true,
@@ -49,7 +49,7 @@
       "id": "p_mub4xdn3",
       "name": "VPS R16",
       "domain": "https://server2.felix-private.web.id",
-      "apikey": "ptlc_nD9GXGcCYH6s98RT2kbEvwLO1QKWEX3ziSOvIKxyE37",
+      "apikey": "ptla_5ECJwgf7AYeMNaE8trSDbhQFXzJ3ebcuwj6q4XoX21w",
       "clientApiKey": "ptlc_nD9GXGcCYH6s98RT2kbEvwLO1QKWEX3ziSOvIKxyE37",
       "locationId": 5,
       "sell": {
