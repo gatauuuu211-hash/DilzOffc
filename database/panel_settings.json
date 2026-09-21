@@ -1,7 +1,8 @@
 {
   "version": 1,
   "activePanelId": "legacy",
-  "updatedAt": "2026-09-21T03:48:00.335Z",
+  "warrantyPanelId": "legacy",
+  "updatedAt": "2026-09-21T03:53:57.807Z",
   "updatedBy": "7744011281",
   "monitor": {
     "enabled": true,
@@ -15,7 +16,13 @@
       "name": "Default Panel",
       "domain": "https://felix-private.web.id",
       "apikey": "ptlc_IHGjZ6k8T7hs9PYIqHPfbgd3rUirrFdT9oxxAOUTTD9",
+      "clientApiKey": "",
       "locationId": 1,
+      "sell": {
+        "nodejs": true,
+        "python": true
+      },
+      "warrantyEligible": true,
       "eggs": {
         "nodejs": {
           "nestId": 5,
@@ -42,7 +49,13 @@
       "name": "P",
       "domain": "https://panel.example.com",
       "apikey": "https://panel.example.com",
+      "clientApiKey": "",
       "locationId": 1,
+      "sell": {
+        "nodejs": true,
+        "python": true
+      },
+      "warrantyEligible": true,
       "eggs": {
         "nodejs": {
           "nestId": 5,
