@@ -3,18 +3,33 @@
   "activePanelId": "legacy",
   "salePanelId": "legacy",
   "warrantyPanelId": "legacy",
-  "updatedAt": "2026-09-21T11:45:40.359Z",
+  "updatedAt": "2026-09-21T12:50:52.052Z",
   "updatedBy": "7744011281",
   "monitor": {
     "enabled": true,
+    "autoTune": true,
     "intervalSeconds": 60,
     "errorThreshold": 2,
     "userCooldownMinutes": 360,
+    "targets": [
+      {
+        "id": "manual-legacy-259",
+        "panelId": "legacy",
+        "serverId": "259",
+        "identifier": "",
+        "name": "VPS",
+        "userId": null,
+        "userName": "",
+        "enabled": true,
+        "createdAt": "2026-09-21T12:50:52.029Z",
+        "updatedAt": "2026-09-21T12:50:52.051Z"
+      }
+    ],
     "healthCheck": {
       "enabled": true,
       "mode": "auto",
       "timeoutMs": 5000,
-      "httpPath": "/health"
+      "httpPath": "/"
     }
   },
   "panels": [
