@@ -8,6 +8,6 @@
   "scripts": [],
   "maintenance": false,
   "panelPayment": "austinpay",
-  "otpPayment": "buatqris",
+  "otpPayment": "austinpay",
   "velianPayment": "austinpay"
 }
