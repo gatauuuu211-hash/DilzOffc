@@ -7,7 +7,7 @@
   "wdAustinPayOpen": true,
   "scripts": [],
   "maintenance": false,
-  "panelPayment": "austinpay",
+  "panelPayment": "manual",
   "otpPayment": "rumahotp",
   "velianPayment": "velian"
 }
