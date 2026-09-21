@@ -1,0 +1,1159 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-21T11:51:14.674Z",
+  "updatedBy": "system-monitor",
+  "states": {
+    "panel:legacy:server:1": {
+      "consecutiveErrors": 1,
+      "lastCode": "ECONNREFUSED",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:07.824Z"
+    },
+    "panel:legacy:server:2": {
+      "consecutiveErrors": 1,
+      "lastCode": "ECONNREFUSED",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:07.911Z"
+    },
+    "panel:legacy:server:3": {
+      "consecutiveErrors": 1,
+      "lastCode": "ECONNREFUSED",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:08.048Z"
+    },
+    "panel:legacy:server:4": {
+      "consecutiveErrors": 1,
+      "lastCode": "ECONNREFUSED",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:08.150Z"
+    },
+    "panel:legacy:server:5": {
+      "consecutiveErrors": 1,
+      "lastCode": "ECONNREFUSED",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:08.248Z"
+    },
+    "panel:legacy:server:6": {
+      "consecutiveErrors": 1,
+      "lastCode": "ECONNREFUSED",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:08.338Z"
+    },
+    "panel:legacy:server:7": {
+      "consecutiveErrors": 1,
+      "lastCode": "ECONNREFUSED",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:08.433Z"
+    },
+    "panel:legacy:server:11": {
+      "consecutiveErrors": 1,
+      "lastCode": "ECONNREFUSED",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:08.537Z"
+    },
+    "panel:legacy:server:13": {
+      "consecutiveErrors": 1,
+      "lastCode": "APP_PROCESS_UNRESPONSIVE",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:08.624Z"
+    },
+    "panel:legacy:server:15": {
+      "consecutiveErrors": 1,
+      "lastCode": "ECONNREFUSED",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:08.709Z"
+    },
+    "panel:legacy:server:16": {
+      "consecutiveErrors": 1,
+      "lastCode": "ECONNREFUSED",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:08.791Z"
+    },
+    "panel:legacy:server:17": {
+      "consecutiveErrors": 1,
+      "lastCode": "ECONNREFUSED",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:08.884Z"
+    },
+    "panel:legacy:server:18": {
+      "consecutiveErrors": 1,
+      "lastCode": "ECONNREFUSED",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:08.980Z"
+    },
+    "panel:legacy:server:19": {
+      "consecutiveErrors": 1,
+      "lastCode": "APP_PROCESS_UNRESPONSIVE",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.078Z"
+    },
+    "panel:legacy:server:20": {
+      "consecutiveErrors": 1,
+      "lastCode": "ECONNREFUSED",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.173Z"
+    },
+    "panel:legacy:server:21": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.179Z"
+    },
+    "panel:legacy:server:25": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.182Z"
+    },
+    "panel:legacy:server:27": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.185Z"
+    },
+    "panel:legacy:server:28": {
+      "consecutiveErrors": 1,
+      "lastCode": "TCP_TARGET_UNKNOWN",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.229Z"
+    },
+    "panel:legacy:server:29": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.233Z"
+    },
+    "panel:legacy:server:31": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.236Z"
+    },
+    "panel:legacy:server:34": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.239Z"
+    },
+    "panel:legacy:server:35": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.243Z"
+    },
+    "panel:legacy:server:37": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.246Z"
+    },
+    "panel:legacy:server:38": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.249Z"
+    },
+    "panel:legacy:server:39": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.252Z"
+    },
+    "panel:legacy:server:40": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.255Z"
+    },
+    "panel:legacy:server:41": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.259Z"
+    },
+    "panel:legacy:server:42": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.262Z"
+    },
+    "panel:legacy:server:44": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.265Z"
+    },
+    "panel:legacy:server:45": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.268Z"
+    },
+    "panel:legacy:server:46": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.270Z"
+    },
+    "panel:legacy:server:47": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.274Z"
+    },
+    "panel:legacy:server:48": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.277Z"
+    },
+    "panel:legacy:server:52": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.280Z"
+    },
+    "panel:legacy:server:55": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.283Z"
+    },
+    "panel:legacy:server:57": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.286Z"
+    },
+    "panel:legacy:server:58": {
+      "consecutiveErrors": 1,
+      "lastCode": "TCP_TARGET_UNKNOWN",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.318Z"
+    },
+    "panel:legacy:server:60": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.322Z"
+    },
+    "panel:legacy:server:61": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.325Z"
+    },
+    "panel:legacy:server:62": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.327Z"
+    },
+    "panel:legacy:server:64": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.330Z"
+    },
+    "panel:legacy:server:68": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.334Z"
+    },
+    "panel:legacy:server:69": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.336Z"
+    },
+    "panel:legacy:server:70": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.338Z"
+    },
+    "panel:legacy:server:71": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.341Z"
+    },
+    "panel:legacy:server:75": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.344Z"
+    },
+    "panel:legacy:server:76": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.347Z"
+    },
+    "panel:legacy:server:77": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.349Z"
+    },
+    "panel:legacy:server:78": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.352Z"
+    },
+    "panel:legacy:server:82": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.354Z"
+    },
+    "panel:legacy:server:84": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.357Z"
+    },
+    "panel:legacy:server:85": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.359Z"
+    },
+    "panel:legacy:server:87": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.362Z"
+    },
+    "panel:legacy:server:90": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.364Z"
+    },
+    "panel:legacy:server:92": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.368Z"
+    },
+    "panel:legacy:server:93": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.371Z"
+    },
+    "panel:legacy:server:94": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.374Z"
+    },
+    "panel:legacy:server:95": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.377Z"
+    },
+    "panel:legacy:server:96": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.379Z"
+    },
+    "panel:legacy:server:98": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.382Z"
+    },
+    "panel:legacy:server:99": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.385Z"
+    },
+    "panel:legacy:server:100": {
+      "consecutiveErrors": 1,
+      "lastCode": "TCP_TARGET_UNKNOWN",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.421Z"
+    },
+    "panel:legacy:server:101": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.425Z"
+    },
+    "panel:legacy:server:104": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.428Z"
+    },
+    "panel:legacy:server:106": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.430Z"
+    },
+    "panel:legacy:server:107": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.433Z"
+    },
+    "panel:legacy:server:108": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.436Z"
+    },
+    "panel:legacy:server:109": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.439Z"
+    },
+    "panel:legacy:server:112": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.442Z"
+    },
+    "panel:legacy:server:114": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.445Z"
+    },
+    "panel:legacy:server:115": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.449Z"
+    },
+    "panel:legacy:server:116": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.453Z"
+    },
+    "panel:legacy:server:117": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.458Z"
+    },
+    "panel:legacy:server:118": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.461Z"
+    },
+    "panel:legacy:server:119": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.464Z"
+    },
+    "panel:legacy:server:120": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.467Z"
+    },
+    "panel:legacy:server:121": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.469Z"
+    },
+    "panel:legacy:server:122": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.472Z"
+    },
+    "panel:legacy:server:123": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.475Z"
+    },
+    "panel:legacy:server:124": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.477Z"
+    },
+    "panel:legacy:server:125": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.481Z"
+    },
+    "panel:legacy:server:126": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.483Z"
+    },
+    "panel:legacy:server:127": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.485Z"
+    },
+    "panel:legacy:server:128": {
+      "consecutiveErrors": 1,
+      "lastCode": "TCP_TARGET_UNKNOWN",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.519Z"
+    },
+    "panel:legacy:server:129": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.522Z"
+    },
+    "panel:legacy:server:130": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.524Z"
+    },
+    "panel:legacy:server:131": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.527Z"
+    },
+    "panel:legacy:server:132": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.530Z"
+    },
+    "panel:legacy:server:133": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.533Z"
+    },
+    "panel:legacy:server:134": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.535Z"
+    },
+    "panel:p_mub4xdn3:server:221": {
+      "consecutiveErrors": 1,
+      "lastCode": "ECONNREFUSED",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:09.944Z"
+    },
+    "panel:p_mub4xdn3:server:223": {
+      "consecutiveErrors": 1,
+      "lastCode": "ECONNREFUSED",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:10.111Z"
+    },
+    "panel:p_mub4xdn3:server:225": {
+      "consecutiveErrors": 1,
+      "lastCode": "ECONNREFUSED",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:10.285Z"
+    },
+    "panel:p_mub4xdn3:server:226": {
+      "consecutiveErrors": 1,
+      "lastCode": "SUSPENDED",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:10.348Z"
+    },
+    "panel:p_mub4xdn3:server:228": {
+      "consecutiveErrors": 1,
+      "lastCode": "ECONNREFUSED",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:10.525Z"
+    },
+    "panel:p_mub4xdn3:server:229": {
+      "consecutiveErrors": 1,
+      "lastCode": "ECONNREFUSED",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:10.696Z"
+    },
+    "panel:p_mub4xdn3:server:231": {
+      "consecutiveErrors": 1,
+      "lastCode": "ECONNREFUSED",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:10.879Z"
+    },
+    "panel:p_mub4xdn3:server:232": {
+      "consecutiveErrors": 1,
+      "lastCode": "ECONNREFUSED",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:11.062Z"
+    },
+    "panel:p_mub4xdn3:server:236": {
+      "consecutiveErrors": 1,
+      "lastCode": "ECONNREFUSED",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:11.226Z"
+    },
+    "panel:p_mub4xdn3:server:237": {
+      "consecutiveErrors": 1,
+      "lastCode": "ECONNREFUSED",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:11.396Z"
+    },
+    "panel:p_mub4xdn3:server:240": {
+      "consecutiveErrors": 1,
+      "lastCode": "ECONNREFUSED",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:11.624Z"
+    },
+    "panel:p_mub4xdn3:server:241": {
+      "consecutiveErrors": 1,
+      "lastCode": "ECONNREFUSED",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:11.800Z"
+    },
+    "panel:p_mub4xdn3:server:242": {
+      "consecutiveErrors": 1,
+      "lastCode": "SUSPENDED",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:11.859Z"
+    },
+    "panel:p_mub4xdn3:server:245": {
+      "consecutiveErrors": 1,
+      "lastCode": "APP_PROCESS_UNRESPONSIVE",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:12.074Z"
+    },
+    "panel:p_mub4xdn3:server:247": {
+      "consecutiveErrors": 1,
+      "lastCode": "ECONNREFUSED",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:12.280Z"
+    },
+    "panel:p_mub4xdn3:server:248": {
+      "consecutiveErrors": 1,
+      "lastCode": "ECONNREFUSED",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:12.456Z"
+    },
+    "panel:p_mub4xdn3:server:249": {
+      "consecutiveErrors": 1,
+      "lastCode": "APP_PROCESS_UNRESPONSIVE",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:12.627Z"
+    },
+    "panel:p_mub4xdn3:server:250": {
+      "consecutiveErrors": 1,
+      "lastCode": "ECONNREFUSED",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:12.803Z"
+    },
+    "panel:p_mub4xdn3:server:251": {
+      "consecutiveErrors": 1,
+      "lastCode": "ECONNREFUSED",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:12.986Z"
+    },
+    "panel:p_mub4xdn3:server:254": {
+      "consecutiveErrors": 1,
+      "lastCode": "ECONNREFUSED",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:13.170Z"
+    },
+    "panel:p_mub4xdn3:server:256": {
+      "consecutiveErrors": 1,
+      "lastCode": "ECONNREFUSED",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:13.349Z"
+    },
+    "panel:p_mub4xdn3:server:258": {
+      "consecutiveErrors": 1,
+      "lastCode": "ECONNREFUSED",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:13.532Z"
+    },
+    "panel:p_mub4xdn3:server:259": {
+      "consecutiveErrors": 1,
+      "lastCode": "ECONNREFUSED",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:13.714Z"
+    },
+    "panel:p_mub4xdn3:server:260": {
+      "consecutiveErrors": 1,
+      "lastCode": "ECONNREFUSED",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:13.915Z"
+    },
+    "panel:p_mub4xdn3:server:261": {
+      "consecutiveErrors": 1,
+      "lastCode": "ECONNREFUSED",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:14.132Z"
+    },
+    "panel:p_mub4xdn3:server:262": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:14.273Z"
+    },
+    "panel:p_mub4xdn3:server:263": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:14.413Z"
+    },
+    "panel:p_mub4xdn3:server:265": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:14.418Z"
+    },
+    "panel:p_mub4xdn3:server:267": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:14.423Z"
+    },
+    "panel:p_mub4xdn3:server:269": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:14.427Z"
+    },
+    "panel:p_mub4xdn3:server:270": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:14.434Z"
+    },
+    "panel:p_mub4xdn3:server:271": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:14.439Z"
+    },
+    "panel:p_mub4xdn3:server:272": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:14.443Z"
+    },
+    "panel:p_mub4xdn3:server:273": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:14.448Z"
+    },
+    "panel:p_mub4xdn3:server:274": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:14.453Z"
+    },
+    "panel:p_mub4xdn3:server:276": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:14.457Z"
+    },
+    "panel:p_mub4xdn3:server:278": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:14.462Z"
+    },
+    "panel:p_mub4xdn3:server:279": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:14.475Z"
+    },
+    "panel:p_mub4xdn3:server:288": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:14.616Z"
+    },
+    "panel:p_mub4xdn3:server:290": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:14.621Z"
+    },
+    "panel:p_mub4xdn3:server:291": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:14.624Z"
+    },
+    "panel:p_mub4xdn3:server:292": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:14.627Z"
+    },
+    "panel:p_mub4xdn3:server:294": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:14.629Z"
+    },
+    "panel:p_mub4xdn3:server:295": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:14.633Z"
+    },
+    "panel:p_mub4xdn3:server:297": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:14.637Z"
+    },
+    "panel:p_mub4xdn3:server:300": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:14.642Z"
+    },
+    "panel:p_mub4xdn3:server:301": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:14.649Z"
+    },
+    "panel:p_mub4xdn3:server:302": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:14.653Z"
+    },
+    "panel:p_mub4xdn3:server:303": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:14.657Z"
+    },
+    "panel:p_mub4xdn3:server:304": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:14.661Z"
+    },
+    "panel:p_mub4xdn3:server:305": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:14.665Z"
+    },
+    "panel:p_mub4xdn3:server:306": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:14.670Z"
+    },
+    "panel:p_mub4xdn3:server:307": {
+      "consecutiveErrors": 1,
+      "lastCode": "HTTP_503",
+      "lastUserNoticeAt": 0,
+      "notifiedDown": false,
+      "lastHealthyAt": null,
+      "lastErrorAt": "2026-09-21T11:51:14.674Z"
+    }
+  }
+}
