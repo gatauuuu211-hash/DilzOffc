@@ -9,5 +9,5 @@
   "maintenance": false,
   "panelPayment": "austinpay",
   "otpPayment": "rumahotp",
-  "velianPayment": "austinpay"
+  "velianPayment": "velian"
 }
