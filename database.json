@@ -5,7 +5,15 @@
   "wdBuatQrisOpen": true,
   "wdRumahOtpOpen": true,
   "wdAustinPayOpen": true,
-  "scripts": [],
+  "scripts": [
+    {
+      "nama": "SCRIPT BUG VIA TELE",
+      "harga": 3000,
+      "deskripsi": "BUTON DISCO + SUPPORT EMOJI PREMIUM",
+      "file_id": "BQACAgUAAxkBAAIGy2qxvwKbeSBeFrnzwIkKNUoLrDRCAAJxHgACEEqYVAim6o-4p_4jPQQ",
+      "fileName": "SC_BUTON_DISKO_+_EMOJI_PREM.zip"
+    }
+  ],
   "maintenance": false,
   "panelPayment": "manual",
   "otpPayment": "rumahotp",
