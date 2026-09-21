@@ -3,7 +3,7 @@
   "activePanelId": "legacy",
   "salePanelId": "legacy",
   "warrantyPanelId": "legacy",
-  "updatedAt": "2026-09-21T04:50:30.379Z",
+  "updatedAt": "2026-09-21T09:47:56.396Z",
   "updatedBy": "7744011281",
   "monitor": {
     "enabled": true,
@@ -17,7 +17,7 @@
       "name": "Default Panel",
       "domain": "https://felix-private.web.id",
       "apikey": "ptlc_IHGjZ6k8T7hs9PYIqHPfbgd3rUirrFdT9oxxAOUTTD9",
-      "clientApiKey": "",
+      "clientApiKey": "ptlc_jKbkICWyrSLFsPt3DKTQwmRn4BaGzEpcgnXTUZ3wGDG",
       "locationId": 1,
       "sell": {
         "nodejs": true,
