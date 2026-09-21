@@ -9,5 +9,5 @@
   "maintenance": false,
   "panelPayment": "austinpay",
   "otpPayment": "buatqris",
-  "velianPayment": "velian"
+  "velianPayment": "austinpay"
 }
