@@ -17,5 +17,7 @@
   "maintenance": false,
   "panelPayment": "austinpay",
   "otpPayment": "rumahotp",
-  "velianPayment": "velian"
+  "velianPayment": "velian",
+  "flowixProductPayment": "buatqris",
+  "flowixOpen": true
 }
