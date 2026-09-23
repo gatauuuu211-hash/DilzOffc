@@ -2,8 +2,8 @@
   "version": 2,
   "activePanelId": "legacy",
   "salePanelId": "legacy",
-  "warrantyPanelId": "legacy",
-  "updatedAt": "2026-09-23T04:47:58.819Z",
+  "warrantyPanelId": "p_mub4xdn3",
+  "updatedAt": "2026-09-23T04:48:25.539Z",
   "updatedBy": "7744011281",
   "monitor": {
     "enabled": true,
@@ -31,7 +31,7 @@
         "nodejs": true,
         "python": true
       },
-      "warrantyEligible": true,
+      "warrantyEligible": false,
       "eggs": {
         "nodejs": {
           "nestId": 5,
@@ -64,7 +64,7 @@
         "nodejs": false,
         "python": false
       },
-      "warrantyEligible": false,
+      "warrantyEligible": true,
       "eggs": {
         "nodejs": {
           "nestId": 5,
