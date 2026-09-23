@@ -14,7 +14,7 @@
       "fileName": "SC_BUTON_DISKO_+_EMOJI_PREM.zip"
     }
   ],
-  "maintenance": false,
+  "maintenance": true,
   "panelPayment": "austinpay",
   "otpPayment": "rumahotp",
   "velianPayment": "velian",
