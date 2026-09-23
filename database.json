@@ -1,7 +1,7 @@
 {
   "isPanelOpen": true,
   "isResellerPanelOpen": true,
-  "isPythonPanelOpen": false,
+  "isPythonPanelOpen": true,
   "wdBuatQrisOpen": true,
   "wdRumahOtpOpen": true,
   "wdAustinPayOpen": true,
