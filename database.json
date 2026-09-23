@@ -18,6 +18,6 @@
   "panelPayment": "austinpay",
   "otpPayment": "rumahotp",
   "velianPayment": "velian",
-  "flowixProductPayment": "flowix",
+  "flowixProductPayment": "manual",
   "flowixOpen": true
 }
