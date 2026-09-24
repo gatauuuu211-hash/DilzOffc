@@ -621,5 +621,35 @@
       "operatorId": "4",
       "phoneNumber": "+62 819 2771 5896"
     }
+  },
+  {
+    "id": "TRX-1790219138943-krk6ea",
+    "userId": 7744011281,
+    "userName": "DilzOffc",
+    "type": "panel",
+    "itemName": "Panel 1GB",
+    "amount": 1000,
+    "method": "buatqris",
+    "paymentId": "NK5W-26FM-098J-24P2",
+    "status": "success",
+    "timestamp": "2026-09-24T03:08:02.065Z",
+    "details": {
+      "id": "TRX-1790219138943-krk6ea",
+      "userId": 7744011281,
+      "userName": "DilzOffc",
+      "amount": 1000,
+      "itemName": "Panel 1GB",
+      "method": "buatqris",
+      "status": "success",
+      "timestamp": 1790219138943,
+      "type": "panel",
+      "username": "Plerrr",
+      "ram": 1024,
+      "price": 1000,
+      "paymentId": "NK5W-26FM-098J-24P2",
+      "chatId": 7744011281,
+      "totalBayar": 1125,
+      "qrMessageId": 4009
+    }
   }
 ]
