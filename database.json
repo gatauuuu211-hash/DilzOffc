@@ -15,7 +15,7 @@
     }
   ],
   "maintenance": true,
-  "panelPayment": "austinpay",
+  "panelPayment": "manual",
   "otpPayment": "rumahotp",
   "velianPayment": "velian",
   "flowixProductPayment": "flowix",
