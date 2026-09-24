@@ -1,0 +1,33 @@
+{
+  "orders": [
+    {
+      "orderId": "TRX-1790219138943-krk6ea",
+      "userId": 7744011281,
+      "userName": "DilzOffc",
+      "tipe": "nodejs",
+      "ram": 1024,
+      "disk": 0,
+      "cpu": 0,
+      "username": "plerrr",
+      "panelId": "legacy",
+      "panelName": "VPS R32",
+      "serverId": "231",
+      "identifier": "f8f756a6",
+      "panelDomain": "https://felix-private.web.id",
+      "tanggalBeli": "2026-09-24T03:07:54.182Z",
+      "tanggalExpired": "2026-10-24T03:07:54.182Z",
+      "maxClaim": 3,
+      "claimCount": 0,
+      "lastClaimAt": null,
+      "status": "active",
+      "healthCheck": {
+        "enabled": true,
+        "mode": "auto",
+        "timeoutMs": 5000,
+        "httpPath": "/",
+        "url": "",
+        "port": 0
+      }
+    }
+  ]
+}
