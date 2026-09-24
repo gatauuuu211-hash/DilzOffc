@@ -16,7 +16,7 @@
   ],
   "maintenance": true,
   "panelPayment": "buatqris",
-  "otpPayment": "rumahotp",
+  "otpPayment": "manual",
   "velianPayment": "velian",
   "flowixProductPayment": "flowix",
   "flowixOpen": true
