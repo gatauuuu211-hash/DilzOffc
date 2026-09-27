@@ -1,0 +1,18 @@
+{
+  "claims": [
+    {
+      "claimId": "CLM-1790480725864",
+      "orderId": "TRX-1790219138943-krk6ea",
+      "userId": 7744011281,
+      "userName": "DilzOffc",
+      "usernameLama": "plerrr",
+      "usernameBaru": null,
+      "alasan": "PANEL DI DELET",
+      "buktiFotoFileId": "AgACAgUAAxkBAAIQSWq4kUG3LCIfykKJUynayZDgJaNLAAIhE2sbZe7AVZUz5ScVvax8AQADAgADdwADPQQ",
+      "status": "pending",
+      "createdAt": "2026-09-27T03:45:25.864Z",
+      "approvedAt": null,
+      "approvedBy": null
+    }
+  ]
+}
