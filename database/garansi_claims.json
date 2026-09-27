@@ -13,6 +13,20 @@
       "createdAt": "2026-09-27T03:45:25.864Z",
       "approvedAt": null,
       "approvedBy": null
+    },
+    {
+      "claimId": "CLM-1790552040232",
+      "orderId": "TRX-1790219138943-krk6ea",
+      "userId": 7744011281,
+      "userName": "DilzOffc",
+      "usernameLama": "plerrr",
+      "usernameBaru": null,
+      "alasan": "Memek asu jahanam",
+      "buktiFotoFileId": "AgACAgUAAxkBAAIRlmq5p9F3efKKNCMwkh8saDiXRIINAAK3E2sb1ubIVWe075OEGLsqAQADAgADdwADPQQ",
+      "status": "pending",
+      "createdAt": "2026-09-27T23:34:00.237Z",
+      "approvedAt": null,
+      "approvedBy": null
     }
   ]
 }
