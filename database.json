@@ -19,5 +19,6 @@
   "otpPayment": "rumahotp",
   "velianPayment": "velian",
   "flowixProductPayment": "flowix",
-  "flowixOpen": true
+  "flowixOpen": true,
+  "ppobPayment": "buatqris"
 }
