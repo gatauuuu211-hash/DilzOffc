@@ -3,13 +3,13 @@
   "activePanelId": "legacy",
   "salePanelId": "legacy",
   "warrantyPanelId": "p_mub4xdn3",
-  "updatedAt": "2026-09-27T11:06:30.105Z",
+  "updatedAt": "2026-09-28T01:41:27.936Z",
   "updatedBy": "7744011281",
   "monitor": {
     "enabled": true,
     "autoTune": true,
     "intervalSeconds": 60,
-    "errorThreshold": 1,
+    "errorThreshold": 2,
     "userCooldownMinutes": 361,
     "targets": [],
     "healthCheck": {
