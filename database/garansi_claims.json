@@ -23,13 +23,18 @@
       "usernameBaru": "BACON",
       "alasan": "Memek asu jahanam",
       "buktiFotoFileId": "AgACAgUAAxkBAAIRlmq5p9F3efKKNCMwkh8saDiXRIINAAK3E2sb1ubIVWe075OEGLsqAQADAgADdwADPQQ",
-      "status": "replacement_processing",
+      "status": "replaced_old_delete_failed",
       "createdAt": "2026-09-27T23:34:00.237Z",
       "approvedAt": "2026-09-28T00:12:32.925Z",
       "approvedBy": 7744011281,
       "usernameSubmittedAt": "2026-09-28T00:22:51.459Z",
       "replacementStartedAt": "2026-09-28T00:33:59.698Z",
-      "replacementStartedBy": 7744011281
+      "replacementStartedBy": 7744011281,
+      "replacementServerId": "417",
+      "replacementPanelId": "p_mub4xdn3",
+      "replacementAt": "2026-09-28T00:34:02.625Z",
+      "oldServerDeleted": false,
+      "oldServerDeleteError": "Request failed with status code 404"
     }
   ]
 }
