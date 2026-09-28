@@ -1,14 +1,14 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-28T10:02:09.646Z",
+  "updatedAt": "2026-09-28T10:03:11.452Z",
   "updatedBy": "system-monitor",
   "states": {
     "TRX-1790219138943-krk6ea": {
-      "consecutiveErrors": 1,
-      "lastCode": "PANEL_HEALTH_UNAVAILABLE",
+      "consecutiveErrors": 0,
+      "lastCode": null,
       "lastUserNoticeAt": 1790558858684,
       "notifiedDown": false,
-      "lastHealthyAt": "2026-09-28T10:00:31.754Z",
+      "lastHealthyAt": "2026-09-28T10:03:11.452Z",
       "lastErrorAt": "2026-09-28T10:02:09.646Z"
     }
   }
