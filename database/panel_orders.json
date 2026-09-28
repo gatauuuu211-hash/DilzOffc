@@ -8,17 +8,17 @@
       "ram": 1024,
       "disk": 0,
       "cpu": 0,
-      "username": "plerrr",
-      "panelId": "legacy",
-      "panelName": "VPS R32",
-      "serverId": "231",
-      "identifier": "f8f756a6",
-      "panelDomain": "https://felix-private.web.id",
+      "username": "bacon",
+      "panelId": "p_mub4xdn3",
+      "panelName": "VPS R16",
+      "serverId": "417",
+      "identifier": "7c59a673",
+      "panelDomain": "https://server2.felix-private.web.id",
       "tanggalBeli": "2026-09-24T03:07:54.182Z",
       "tanggalExpired": "2026-10-24T03:07:54.182Z",
       "maxClaim": 3,
-      "claimCount": 0,
-      "lastClaimAt": null,
+      "claimCount": 1,
+      "lastClaimAt": "2026-09-28T00:34:01.824Z",
       "status": "active",
       "healthCheck": {
         "enabled": true,
@@ -27,7 +27,10 @@
         "httpPath": "/",
         "url": "",
         "port": 0
-      }
+      },
+      "replacedFromServerId": "231",
+      "replacedAt": "2026-09-28T00:34:01.825Z",
+      "replacementDeleteOldError": "Request failed with status code 404"
     }
   ]
 }
