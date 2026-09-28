@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-28T00:31:37.816Z",
+  "updatedAt": "2026-09-28T00:32:40.194Z",
   "updatedBy": "system-monitor",
   "states": {
     "TRX-1790219138943-krk6ea": {
-      "consecutiveErrors": 76,
-      "lastCode": "ECONNABORTED",
+      "consecutiveErrors": 77,
+      "lastCode": "SERVER_DELETED",
       "lastUserNoticeAt": 1790548631112,
       "notifiedDown": true,
       "lastHealthyAt": null,
-      "lastErrorAt": "2026-09-28T00:31:37.800Z"
+      "lastErrorAt": "2026-09-28T00:32:40.194Z"
     }
   }
 }
