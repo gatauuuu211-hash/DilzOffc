@@ -1,15 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-28T02:19:24.298Z",
+  "updatedAt": "2026-09-28T02:20:25.783Z",
   "updatedBy": "system-monitor",
   "states": {
     "TRX-1790219138943-krk6ea": {
-      "consecutiveErrors": 0,
-      "lastCode": null,
+      "consecutiveErrors": 1,
+      "lastCode": "PLTA_HTTP_503",
       "lastUserNoticeAt": 1790558858684,
       "notifiedDown": false,
       "lastHealthyAt": "2026-09-28T02:19:24.298Z",
-      "lastErrorAt": "2026-09-28T01:27:38.684Z"
+      "lastErrorAt": "2026-09-28T02:20:25.783Z"
     }
   }
 }
