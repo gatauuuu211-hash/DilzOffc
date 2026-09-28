@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-28T13:23:47.782Z",
+  "updatedAt": "2026-09-28T13:25:38.110Z",
   "updatedBy": "system-monitor",
   "states": {
     "TRX-1790219138943-krk6ea": {
@@ -8,7 +8,7 @@
       "lastCode": null,
       "lastUserNoticeAt": 1790591498579,
       "notifiedDown": false,
-      "lastHealthyAt": "2026-09-28T13:23:47.776Z",
+      "lastHealthyAt": "2026-09-28T13:25:38.110Z",
       "lastErrorAt": "2026-09-28T12:02:51.035Z"
     }
   }
