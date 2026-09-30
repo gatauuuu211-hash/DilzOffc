@@ -1,0 +1,16 @@
+{
+  "RUANGOTP805595": {
+    "userId": 7744011281,
+    "price": 2404,
+    "orderId": "RUANGOTP805595",
+    "phoneNumber": "6281373081560",
+    "service": "wa",
+    "status": "pending",
+    "server": "ruangotp",
+    "startTime": 1790768996348,
+    "chatId": 7744011281,
+    "modal": 2354,
+    "msgPendingId": null,
+    "pollingInterval": null
+  }
+}
