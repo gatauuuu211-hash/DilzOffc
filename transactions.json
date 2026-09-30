@@ -651,5 +651,24 @@
       "totalBayar": 1125,
       "qrMessageId": 4009
     }
+  },
+  {
+    "id": "RUANGOTP248999",
+    "userId": 7744011281,
+    "userName": "DilzOffc",
+    "type": "otp",
+    "itemName": "wa",
+    "amount": 2404,
+    "method": "RuangOTP",
+    "paymentId": "RUANGOTP248999",
+    "status": "success",
+    "timestamp": "2026-09-30T10:47:19.870Z",
+    "details": {
+      "countryId": "6",
+      "serviceCode": "wa",
+      "providerId": 91,
+      "modal": 2354,
+      "phoneNumber": "6283829041831"
+    }
   }
 ]
