@@ -12,5 +12,20 @@
     "modal": 2354,
     "msgPendingId": null,
     "pollingInterval": null
+  },
+  "RUANGOTP600069": {
+    "userId": 7744011281,
+    "price": 2683,
+    "orderId": "RUANGOTP600069",
+    "phoneNumber": "6281696911718",
+    "service": "wa",
+    "status": "pending",
+    "server": "ruangotp",
+    "startTime": 1791020630430,
+    "chatId": 7744011281,
+    "modal": 2633,
+    "confirmMsgId": null,
+    "checkMsgId": null,
+    "pollingInterval": null
   }
 }
