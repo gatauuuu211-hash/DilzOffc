@@ -26,7 +26,7 @@
     "nokos": true,
     "panel": false,
     "script": false,
-    "pulsa": true,
+    "pulsa": false,
     "data": false,
     "game": false,
     "pln": false,
