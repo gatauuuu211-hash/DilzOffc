@@ -23,7 +23,7 @@
   "ppobPayment": "isikuota",
   "warungnokosDefaultServer": 1,
   "maintenanceProducts": {
-    "nokos": false,
+    "nokos": true,
     "panel": false,
     "script": false,
     "pulsa": false,
