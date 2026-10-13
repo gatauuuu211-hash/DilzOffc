@@ -16,7 +16,7 @@
   ],
   "maintenance": false,
   "panelPayment": "austinpay",
-  "otpPayment": "buatqris",
+  "otpPayment": "austinpay",
   "velianPayment": "velian",
   "flowixProductPayment": "flowix",
   "flowixOpen": true,
