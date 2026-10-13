@@ -14,11 +14,28 @@
       "fileName": "SC_BUTON_DISKO_+_EMOJI_PREM.zip"
     }
   ],
-  "maintenance": true,
+  "maintenance": false,
   "panelPayment": "austinpay",
   "otpPayment": "buatqris",
   "velianPayment": "velian",
   "flowixProductPayment": "flowix",
   "flowixOpen": true,
-  "ppobPayment": "isikuota"
+  "ppobPayment": "isikuota",
+  "warungnokosDefaultServer": 1,
+  "maintenanceProducts": {
+    "nokos": false,
+    "panel": false,
+    "script": false,
+    "pulsa": false,
+    "data": false,
+    "game": false,
+    "pln": false,
+    "tagihan": false
+  },
+  "maintenanceServers": {
+    "rumahotp": false,
+    "ruangotp": false,
+    "warungnokos_1": false,
+    "warungnokos_2": false
+  }
 }
