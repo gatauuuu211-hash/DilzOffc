@@ -36,6 +36,6 @@
     "rumahotp": true,
     "ruangotp": false,
     "warungnokos_1": true,
-    "warungnokos_2": true
+    "warungnokos_2": false
   }
 }
