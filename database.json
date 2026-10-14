@@ -35,7 +35,7 @@
   "maintenanceServers": {
     "rumahotp": true,
     "ruangotp": false,
-    "warungnokos_1": false,
+    "warungnokos_1": true,
     "warungnokos_2": true
   }
 }
