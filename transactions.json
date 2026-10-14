@@ -670,5 +670,23 @@
       "modal": 2354,
       "phoneNumber": "6283829041831"
     }
+  },
+  {
+    "id": "TOPUP-ZGY6-268B-10GF-14X7",
+    "userId": 8545851475,
+    "userName": "JerrZipp88",
+    "type": "topup_otp",
+    "itemName": "Deposit Saldo OTP (Qris)",
+    "amount": 8000,
+    "method": "Qris",
+    "paymentId": "ZGY6-268B-10GF-14X7",
+    "status": "success",
+    "timestamp": "2026-10-14T07:42:46.369Z",
+    "details": {
+      "depositAmount": 8000,
+      "fee": 200,
+      "totalPaid": 8200,
+      "saldoAfter": 8000
+    }
   }
 ]
