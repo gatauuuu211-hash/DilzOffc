@@ -21,7 +21,7 @@
   "flowixProductPayment": "flowix",
   "flowixOpen": true,
   "ppobPayment": "isikuota",
-  "warungnokosDefaultServer": 2,
+  "warungnokosDefaultServer": 1,
   "maintenanceProducts": {
     "nokos": true,
     "panel": false,
