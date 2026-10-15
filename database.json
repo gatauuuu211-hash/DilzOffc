@@ -16,7 +16,7 @@
   ],
   "maintenance": false,
   "panelPayment": "austinpay",
-  "otpPayment": "ruangotp",
+  "otpPayment": "warungnokos",
   "velianPayment": "velian",
   "flowixProductPayment": "flowix",
   "flowixOpen": true,
