@@ -33,7 +33,7 @@
     "tagihan": false
   },
   "maintenanceServers": {
-    "rumahotp": true,
+    "rumahotp": false,
     "ruangotp": false,
     "warungnokos_1": true,
     "warungnokos_2": false
